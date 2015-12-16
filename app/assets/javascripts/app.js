@@ -1,0 +1,1 @@
+var autoPairApp = angular.module('AutoPairApp', []);
