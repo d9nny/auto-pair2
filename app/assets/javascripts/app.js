@@ -17,9 +17,6 @@ autoPairApp.config(['$routeProvider',
         templateUrl: 'viewQuestion.html',
         controller: 'ViewQuestionController'
       }).
-      when('/add-question', {
-        
-      }).
       when('/programming', {
         templateUrl: 'programming.html',
         controller: 'ProgrammingController'
